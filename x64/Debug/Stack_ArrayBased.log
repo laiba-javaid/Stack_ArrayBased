@@ -1,0 +1,5 @@
+﻿  Source.cpp
+  Stack.cpp
+  Generating Code...
+C:\Users\TECH CLOUD\source\repos\Stack_ArrayBased\Stack.cpp(55): warning C4715: 'Stack::Top': not all control paths return a value
+  Stack_ArrayBased.vcxproj -> C:\Users\TECH CLOUD\source\repos\Stack_ArrayBased\x64\Debug\Stack_ArrayBased.exe
